@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/project-final_degree_%28DAM%29-048A81?style=flat-square" alt="Final degree project">
   <img src="https://img.shields.io/badge/status-active_development-d97706?style=flat-square" alt="Active development">
   <img src="https://img.shields.io/badge/source_code-private-555?style=flat-square&logo=lock&logoColor=white" alt="Private source code">
-  <a href="https://marcgalvez2006.github.io/beta3m-showcase/"><img src="https://img.shields.io/badge/🌐_Project_website-048A81?style=flat-square" alt="Project website"></a>
+  <a href="https://marcgaalvez.github.io/beta3m-showcase/"><img src="https://img.shields.io/badge/🌐_Project_website-048A81?style=flat-square" alt="Project website"></a>
 </p>
 
 <p align="center">
@@ -385,10 +385,10 @@ floating controls, and switches type to points.
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/marcgalvez2006.png?size=120" width="96" alt="Marc Gálvez"><br>
+      <img src="https://github.com/marcgaalvez.png?size=120" width="96" alt="Marc Gálvez"><br>
       <b>Marc Gálvez</b><br>
       <sub>Front end · ink engine · interface<br>AI, OCR and sync</sub><br><br>
-      <a href="https://github.com/marcgalvez2006"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="Marc's GitHub"></a>
+      <a href="https://github.com/marcgaalvez"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="Marc's GitHub"></a>
       <!-- TODO Marc: LinkedIn -->
     </td>
     <td align="center" width="50%">
@@ -409,7 +409,7 @@ floating controls, and switches type to points.
 > and [selected excerpts](code-samples/). If you're a recruiter and would like to see more,
 > get in touch and I'll give you a **live demo**.
 >
-> 📬 <!-- TODO Marc: contact link (LinkedIn / email) --> Contact: via my [GitHub profile](https://github.com/marcgalvez2006).
+> 📬 <!-- TODO Marc: contact link (LinkedIn / email) --> Contact: via my [GitHub profile](https://github.com/marcgaalvez).
 
 © 2026 Marc Gálvez & Ignasi Palau. **All rights reserved**: see [LICENSE](LICENSE).
 You may view this content for evaluation purposes; copying, modifying or redistributing it is not permitted.

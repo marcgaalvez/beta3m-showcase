@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Proyecto-DAM-048A81?style=flat-square" alt="Proyecto DAM">
   <img src="https://img.shields.io/badge/estado-en_desarrollo_activo-d97706?style=flat-square" alt="En desarrollo activo">
   <img src="https://img.shields.io/badge/c%C3%B3digo_fuente-privado-555?style=flat-square&logo=lock&logoColor=white" alt="Código fuente privado">
-  <a href="https://marcgalvez2006.github.io/beta3m-showcase/"><img src="https://img.shields.io/badge/🌐_Web_del_proyecto-048A81?style=flat-square" alt="Web del proyecto"></a>
+  <a href="https://marcgaalvez.github.io/beta3m-showcase/"><img src="https://img.shields.io/badge/🌐_Web_del_proyecto-048A81?style=flat-square" alt="Web del proyecto"></a>
 </p>
 
 <p align="center">
@@ -386,10 +386,10 @@ la interfaz y los controles flotantes y ajusta la tipografía a puntos.
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/marcgalvez2006.png?size=120" width="96" alt="Marc Gálvez"><br>
+      <img src="https://github.com/marcgaalvez.png?size=120" width="96" alt="Marc Gálvez"><br>
       <b>Marc Gálvez</b><br>
       <sub>Frontend · motor de tinta · interfaz<br>IA, OCR y sincronización</sub><br><br>
-      <a href="https://github.com/marcgalvez2006"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub de Marc"></a>
+      <a href="https://github.com/marcgaalvez"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub de Marc"></a>
       <!-- TODO Marc: LinkedIn -->
     </td>
     <td align="center" width="50%">
@@ -410,7 +410,7 @@ la interfaz y los controles flotantes y ajusta la tipografía a puntos.
 > técnicas y [extractos seleccionados](code-samples/). Si eres reclutador/a y quieres ver más,
 > escríbeme y hago una **demo en directo**.
 >
-> 📬 <!-- TODO Marc: enlace de contacto (LinkedIn / email) --> Contacto: a través de mi [perfil de GitHub](https://github.com/marcgalvez2006).
+> 📬 <!-- TODO Marc: enlace de contacto (LinkedIn / email) --> Contacto: a través de mi [perfil de GitHub](https://github.com/marcgaalvez).
 
 © 2026 Marc Gálvez & Ignasi Palau. **Todos los derechos reservados**: ver [LICENSE](LICENSE).
 Se permite ver el contenido con fines de evaluación; no se permite copiarlo, modificarlo ni redistribuirlo.

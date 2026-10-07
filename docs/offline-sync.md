@@ -10,7 +10,7 @@ todo cambio se guarda primero en el dispositivo y se sube después, cuando se pu
 ```mermaid
 flowchart LR
     E["Editor"] -->|"cada cambio"| D[("Capa 1<br/>IndexedDB (Dexie)<br/>inmediato")]
-    E -->|"encola"| Q["Cola en memoria<br/>Map&lt;noteId, cambios&gt;"]
+    E -->|"encola"| Q["Cola en memoria<br/>cambios por nota"]
     Q -->|"usuario inactivo<br/>o cola llena"| A["Capa 2<br/>API REST"]
     A -->|"falla"| Q
     A -->|"OK"| D
