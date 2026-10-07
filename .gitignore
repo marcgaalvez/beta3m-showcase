@@ -1,0 +1,11 @@
+.env*
+!.env.example
+node_modules/
+dist/
+*.log
+*.pem
+*.key
+SECURITY_CHECK.md
+SHOWCASE_PROGRESS.md
+.DS_Store
+Thumbs.db
