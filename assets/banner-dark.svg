@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="Beta3M — Apuntes a mano en tablet, potenciados con IA">
+  <style>
+    .h { fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 1; stroke-dashoffset: 1;
+          animation-name: draw; animation-timing-function: ease-out; animation-fill-mode: forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .latex { opacity: 0; animation: show .6s ease-out 3.4s forwards; }
+    .scan { opacity: 0; animation: scan 1.1s ease-in-out 2.4s forwards; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes scan { 0% { opacity: 0; transform: translateX(0); } 30% { opacity: .9; } 100% { opacity: 0; transform: translateX(150px); } }
+    .float { animation: float 6s ease-in-out infinite; }
+    @keyframes float { 50% { transform: translateY(-6px); } }
+    @media (prefers-reduced-motion: reduce) {
+      .h { animation: none; stroke-dashoffset: 0; } .latex { animation: none; opacity: 1; }
+      .scan, .float { animation: none; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1514"/><stop offset="1" stop-color="#10201e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".78" cy=".45" r=".45">
+      <stop offset="0" stop-color="#048A81" stop-opacity=".28"/><stop offset="1" stop-color="#048A81" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#5f7a75" opacity=".35"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="400" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="400" rx="24" fill="url(#dots)"/>
+  <rect width="1280" height="400" rx="24" fill="url(#glow)"/>
+
+  <!-- Marca -->
+  <g transform="translate(80 92)">
+    <rect width="64" height="64" rx="16" fill="#048A81"/>
+    <text x="32" y="42" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#fff" letter-spacing="-1">3M</text>
+    <text x="88" y="46" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="#ecf5f3" letter-spacing="-1.5">Beta3M</text>
+  </g>
+  <text x="80" y="214" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#ecf5f3">Apuntes a mano en tablet,</text>
+  <text x="80" y="256" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#048A81">potenciados con IA.</text>
+  <text x="80" y="300" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#9fb8b3">Stylus de baja latencia · OCR de fórmulas · Offline-first · React + Node.js</text>
+
+  <!-- Tablet -->
+  <g class="float" transform="translate(720 54)">
+    <rect width="480" height="300" rx="26" fill="#0a0f0e"/>
+    <rect x="14" y="14" width="452" height="272" rx="14" fill="#1b2a28"/>
+    <g stroke="#24403c" stroke-width="1">
+      <line x1="40" y1="96" x2="440" y2="96"/><line x1="40" y1="150" x2="440" y2="150"/>
+      <line x1="40" y1="204" x2="440" y2="204"/><line x1="40" y1="258" x2="440" y2="258"/>
+    </g>
+    <rect x="40" y="34" width="86" height="22" rx="11" fill="#048A81" opacity=".15"/>
+    <text x="83" y="50" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#048A81">Física</text>
+    <text x="138" y="51" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ecf5f3">Cinemática</text>
+    <g transform="translate(60 106) scale(1.25)">
+      <path class="h" d="M0 6 C8 14 18 26 28 34" pathLength="1" stroke="#e6f3f1" stroke-width="3" style="animation-delay:0.40s;animation-duration:0.35s"/>
+      <path class="h" d="M28 4 C19 14 10 24 1 36" pathLength="1" stroke="#e6f3f1" stroke-width="3" style="animation-delay:0.62s;animation-duration:0.35s"/>
+      <path class="h" d="M44 -4 C34 8 34 30 45 42" pathLength="1" stroke="#e6f3f1" stroke-width="3" style="animation-delay:0.84s;animation-duration:0.35s"/>
+      <path class="h" d="M58 -2 C57 10 56 22 57 30 C58 35 63 35 67 31" pathLength="1" stroke="#e6f3f1" stroke-width="3" style="animation-delay:1.06s;animation-duration:0.35s"/>
+      <path class="h" d="M50 9 C56 8 61 8 67 7" pathLength="1" stroke="#e6f3f1" stroke-width="3" style="animation-delay:1.28s;animation-duration:0.35s"/>
+      <path class="h" d="M76 -4 C87 8 87 30 76 42" pathLength="1" stroke="#e6f3f1" stroke-width="3" style="animation-delay:1.50s;animation-duration:0.35s"/>
+      <path class="h" d="M96 12 C104 11 112 11 121 10" pathLength="1" stroke="#e6f3f1" stroke-width="3" style="animation-delay:1.72s;animation-duration:0.35s"/>
+      <path class="h" d="M96 25 C104 24 113 24 122 23" pathLength="1" stroke="#e6f3f1" stroke-width="3" style="animation-delay:1.94s;animation-duration:0.35s"/>
+    </g>
+    <rect class="scan" x="54" y="98" width="6" height="64" rx="3" fill="#048A81"/>
+    <g class="latex">
+      <text x="222" y="137" font-family="'Cambria Math', 'Times New Roman', serif" font-size="25" font-style="italic" fill="#ecf5f3">x₀ + v₀t + ½at²</text>
+      <rect x="60" y="176" width="150" height="26" rx="13" fill="#d97706" opacity=".16"/>
+      <text x="135" y="194" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#d97706">✨ Reconocido · LaTeX</text>
+    </g>
+    <path d="M60 236 C110 214 150 248 200 226 S290 214 330 230" fill="none" stroke="#d97706" stroke-width="10" stroke-linecap="round" opacity=".28"/>
+    <!-- Lápiz -->
+    <g transform="translate(398 168) rotate(38)">
+      <rect x="-6" y="-70" width="12" height="78" rx="6" fill="#5f7a75"/>
+      <path d="M-6 8 L0 22 L6 8 Z" fill="#ecf5f3"/>
+    </g>
+  </g>
+</svg>
