@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Editor con stylus — captura próximamente">
+  <rect width="1200" height="800" rx="40" fill="#1d2b29"/>
+  <rect x="34" y="34" width="1132" height="732" rx="18" fill="#fffdf8"/>
+  <rect x="34" y="34" width="1132" height="64" rx="18" fill="#ffffff"/>
+  <rect x="54" y="50" width="32" height="32" rx="9" fill="#048A81"/>
+  <text x="70" y="71" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="800" fill="#fff">3M</text>
+  <text x="98" y="73" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#10302c">Beta3M</text>
+  <rect x="34" y="98" width="220" height="668" fill="#ffffff"/><rect x="58" y="128" width="172" height="34" rx="10" fill="#048A81" opacity="0.9"/><rect x="58" y="180" width="172" height="34" rx="10" fill="#d7e7e3" opacity="1"/><rect x="58" y="232" width="172" height="34" rx="10" fill="#3b82f6" opacity="0.35"/><rect x="58" y="284" width="172" height="34" rx="10" fill="#d97706" opacity="0.35"/><rect x="58" y="336" width="172" height="34" rx="10" fill="#10b981" opacity="0.35"/>
+  <line x1="314" y1="208" x2="1106" y2="208" stroke="#d7e7e3" stroke-width="1.5"/><line x1="314" y1="270" x2="1106" y2="270" stroke="#d7e7e3" stroke-width="1.5"/><line x1="314" y1="332" x2="1106" y2="332" stroke="#d7e7e3" stroke-width="1.5"/><line x1="314" y1="394" x2="1106" y2="394" stroke="#d7e7e3" stroke-width="1.5"/><line x1="314" y1="456" x2="1106" y2="456" stroke="#d7e7e3" stroke-width="1.5"/><line x1="314" y1="518" x2="1106" y2="518" stroke="#d7e7e3" stroke-width="1.5"/><line x1="314" y1="580" x2="1106" y2="580" stroke="#d7e7e3" stroke-width="1.5"/>
+  <path d="M314 248 c40 -30 80 30 120 0 s80 -30 120 0" fill="none" stroke="#1f2937" stroke-width="3" stroke-linecap="round" opacity=".55"/>
+  <g transform="translate(710.0 400.0)">
+    <rect x="-210" y="-58" width="420" height="116" rx="20" fill="#ffffff" stroke="#048A81" stroke-opacity=".5" stroke-dasharray="6 6"/>
+    <text y="-12" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#10302c">Editor con stylus</text>
+    <text y="22" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#4b6a65">📸 Captura próximamente · modo claro · horizontal</text>
+  </g>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Demo: escritura con stylus convertida en LaTeX">
+  <style>
+    .h { fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 1; stroke-dashoffset: 1;
+          animation-name: draw; animation-iteration-count: infinite; animation-timing-function: ease-out; }
+    @keyframes draw { 0% { stroke-dashoffset: 1; opacity: 1; } 8%, 70% { stroke-dashoffset: 0; opacity: 1; } 78%, 100% { stroke-dashoffset: 0; opacity: 0; } }
+    .latex { opacity: 0; animation: latex 8s ease-out infinite; }
+    @keyframes latex { 0%, 42% { opacity: 0; transform: translateY(6px); } 50%, 90% { opacity: 1; transform: none; } 100% { opacity: 0; } }
+    .scan { opacity: 0; animation: scan 8s ease-in-out infinite; }
+    @keyframes scan { 0%, 30% { opacity: 0; transform: translateX(0); } 33% { opacity: .9; } 44% { opacity: 0; transform: translateX(200px); } 100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .h { animation: none; stroke-dashoffset: 0; } .latex { animation: none; opacity: 1; } .scan { animation: none; }
+    }
+  </style>
+  <rect width="960" height="540" rx="36" fill="#1d2b29"/>
+  <rect x="26" y="26" width="908" height="488" rx="18" fill="#fffdf8"/>
+  <rect x="26" y="26" width="908" height="62" rx="18" fill="#ffffff"/>
+  <rect x="46" y="41" width="32" height="32" rx="9" fill="#048A81"/>
+  <text x="62" y="62" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="800" fill="#fff">3M</text>
+  <rect x="94" y="45" width="70" height="24" rx="12" fill="#048A81" opacity=".14"/>
+  <text x="129" y="62" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#048A81">Física</text>
+  <text x="178" y="63" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#10302c">Cinemática — MRUA</text>
+  <g stroke="#d7e7e3" stroke-width="1.5">
+    <line x1="70" y1="190" x2="890" y2="190"/><line x1="70" y1="280" x2="890" y2="280"/>
+    <line x1="70" y1="370" x2="890" y2="370"/><line x1="70" y1="460" x2="890" y2="460"/>
+  </g>
+  <text x="80" y="160" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" fill="#4b6a65">Posición en función del tiempo:</text>
+  <g transform="translate(90 205) scale(1.9)">
+    <path class="h" d="M0 6 C8 14 18 26 28 34" pathLength="1" stroke="#1f2937" stroke-width="2.4" style="animation-delay:0.20s;animation-duration:8s"/>
+      <path class="h" d="M28 4 C19 14 10 24 1 36" pathLength="1" stroke="#1f2937" stroke-width="2.4" style="animation-delay:0.45s;animation-duration:8s"/>
+      <path class="h" d="M44 -4 C34 8 34 30 45 42" pathLength="1" stroke="#1f2937" stroke-width="2.4" style="animation-delay:0.70s;animation-duration:8s"/>
+      <path class="h" d="M58 -2 C57 10 56 22 57 30 C58 35 63 35 67 31" pathLength="1" stroke="#1f2937" stroke-width="2.4" style="animation-delay:0.95s;animation-duration:8s"/>
+      <path class="h" d="M50 9 C56 8 61 8 67 7" pathLength="1" stroke="#1f2937" stroke-width="2.4" style="animation-delay:1.20s;animation-duration:8s"/>
+      <path class="h" d="M76 -4 C87 8 87 30 76 42" pathLength="1" stroke="#1f2937" stroke-width="2.4" style="animation-delay:1.45s;animation-duration:8s"/>
+      <path class="h" d="M96 12 C104 11 112 11 121 10" pathLength="1" stroke="#1f2937" stroke-width="2.4" style="animation-delay:1.70s;animation-duration:8s"/>
+      <path class="h" d="M96 25 C104 24 113 24 122 23" pathLength="1" stroke="#1f2937" stroke-width="2.4" style="animation-delay:1.95s;animation-duration:8s"/>
+  </g>
+  <rect class="scan" x="84" y="196" width="8" height="96" rx="4" fill="#048A81"/>
+  <g class="latex">
+    <text x="345" y="258" font-family="'Cambria Math', 'Times New Roman', serif" font-size="38" font-style="italic" fill="#10302c">x₀ + v₀t + ½at²</text>
+    <rect x="90" y="318" width="236" height="36" rx="18" fill="#d97706" opacity=".14"/>
+    <text x="208" y="342" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#d97706">✨ Fórmula reconocida (LaTeX)</text>
+  </g>
+  <g transform="translate(690 330) rotate(38)">
+    <rect x="-8" y="-100" width="16" height="110" rx="8" fill="#9ab3ae"/>
+    <path d="M-8 10 L0 28 L8 10 Z" fill="#1f2937"/>
+  </g>
+  <text x="480" y="500" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#9ab3ae">Animación ilustrativa · GIF real próximamente</text>
+</svg>
