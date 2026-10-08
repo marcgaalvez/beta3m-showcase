@@ -389,7 +389,7 @@ floating controls, and switches type to points.
       <b>Marc Gálvez</b><br>
       <sub>Front end · ink engine · interface<br>AI, OCR and sync</sub><br><br>
       <a href="https://github.com/marcgaalvez"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="Marc's GitHub"></a>
-      <a href="https://www.linkedin.com/search/results/people/?keywords=Marc%20G%C3%A1lvez%20Comajuan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Marc's LinkedIn"></a>
+      <a href="https://www.linkedin.com/in/marcgalvezcomajuan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Marc's LinkedIn"></a>
       <a href="mailto:marcgalvezcomajuan@gmail.com"><img src="https://img.shields.io/badge/Email-048A81?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
     </td>
     <td align="center" width="50%">
@@ -410,7 +410,7 @@ floating controls, and switches type to points.
 > and [selected excerpts](code-samples/). If you're a recruiter and would like to see more,
 > get in touch and I'll give you a **live demo**.
 >
-> 📬 Contact: [marcgalvezcomajuan@gmail.com](mailto:marcgalvezcomajuan@gmail.com) · [LinkedIn — Marc Gálvez Comajuan](https://www.linkedin.com/search/results/people/?keywords=Marc%20G%C3%A1lvez%20Comajuan)
+> 📬 Contact: [marcgalvezcomajuan@gmail.com](mailto:marcgalvezcomajuan@gmail.com) · [LinkedIn — Marc Gálvez Comajuan](https://www.linkedin.com/in/marcgalvezcomajuan/)
 
 © 2026 Marc Gálvez & Ignasi Palau. **All rights reserved**: see [LICENSE](LICENSE).
 You may view this content for evaluation purposes; copying, modifying or redistributing it is not permitted.
