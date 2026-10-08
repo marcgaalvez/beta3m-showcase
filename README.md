@@ -390,7 +390,8 @@ la interfaz y los controles flotantes y ajusta la tipografía a puntos.
       <b>Marc Gálvez</b><br>
       <sub>Frontend · motor de tinta · interfaz<br>IA, OCR y sincronización</sub><br><br>
       <a href="https://github.com/marcgaalvez"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub de Marc"></a>
-      <!-- TODO Marc: LinkedIn -->
+      <a href="https://www.linkedin.com/search/results/people/?keywords=Marc%20G%C3%A1lvez%20Comajuan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn de Marc"></a>
+      <a href="mailto:marcgalvezcomajuan@gmail.com"><img src="https://img.shields.io/badge/Email-048A81?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
     </td>
     <td align="center" width="50%">
       <!-- TODO Marc: confirmar enlace y que Ignasi está de acuerdo en aparecer -->
@@ -410,7 +411,7 @@ la interfaz y los controles flotantes y ajusta la tipografía a puntos.
 > técnicas y [extractos seleccionados](code-samples/). Si eres reclutador/a y quieres ver más,
 > escríbeme y hago una **demo en directo**.
 >
-> 📬 <!-- TODO Marc: enlace de contacto (LinkedIn / email) --> Contacto: a través de mi [perfil de GitHub](https://github.com/marcgaalvez).
+> 📬 Contacto: [marcgalvezcomajuan@gmail.com](mailto:marcgalvezcomajuan@gmail.com) · [LinkedIn — Marc Gálvez Comajuan](https://www.linkedin.com/search/results/people/?keywords=Marc%20G%C3%A1lvez%20Comajuan)
 
 © 2026 Marc Gálvez & Ignasi Palau. **Todos los derechos reservados**: ver [LICENSE](LICENSE).
 Se permite ver el contenido con fines de evaluación; no se permite copiarlo, modificarlo ni redistribuirlo.
